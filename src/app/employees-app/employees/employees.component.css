@@ -1,0 +1,38 @@
+.page{
+    color:white;
+}
+.container-fluid{
+    width: 400px;
+}
+
+#inputBox{
+    margin-left: 10px;
+    font-size: large;
+}
+
+.btn{
+    margin-left: 10px;
+}
+
+.table{
+    border-style:solid;
+    border-color:#00178034;
+    text-align: center;
+}
+
+.col{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top:10px;
+}
+
+.colButton{
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.insertContainer{
+    width: 500px;
+    border-style: solid;
+    border-color: #800011;
+}

@@ -1,0 +1,43 @@
+.Pimages{
+  width:150px;
+  height:150px;
+}
+
+.alt1{
+    text-align: center;
+    color: whitesmoke;
+}
+
+#headerImg{
+    width: 600px;
+    height:100px;
+}
+
+.homeImages{
+    width:350px;
+    height:350px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #000080;
+
+}
+
+td{
+  border-left-width: 60px;
+  border-left-color:transparent;
+  border-right-width: 60px;
+  border-right-color: transparent;
+  text-align: center;
+  font-size:x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.partnersPics{
+  border-style: solid;
+  border-color: #000080;
+  background-color: white;
+}
+
+
+
+

@@ -1,0 +1,67 @@
+.foot{
+    height:auto;
+    text-align: center;
+    border-top-style: solid;
+    border-top-color:#000080;
+}
+td{
+     border-left-width: 50px ;
+     border-left-color:transparent;
+     border-right-width: 130px;
+     border-right-color: transparent;
+     text-align: center;    
+}
+a{
+    background-color: transparent;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+} 
+a:hover {
+    border-radius: 50%;
+    background-color:#000080;
+}
+a:active {
+    background-color: black;
+}
+a:visited {
+    background-color: darkblue;
+}
+
+.card-body{
+   width:220px;
+   text-align: center;
+   padding-bottom: 50px;
+}
+
+.cardProduct{
+    width:230px;
+    text-align:center;
+    padding-top: 50px;
+}
+
+.title1{
+    text-align: center; 
+    padding-right: 40px;
+}
+
+.title2{
+    text-align: center;
+    padding-right: 10px;
+    padding-top: 20px;
+}
+
+.title3{
+    text-align: center;
+    padding-right: 20px;
+    padding-top: 30px;
+}
+
+.card-text{
+    text-align: left;
+}
+
+#terraLogo{
+    width:200px;
+    height:50px;
+}
